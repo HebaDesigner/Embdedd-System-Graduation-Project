@@ -17,7 +17,9 @@ A smart home system controlled using a mobile phone via Bluetooth.
 
 ## Software Used
 - Arduino IDE
-- Proteus## Circuit Design
+- Proteus#
+
+## Circuit Design
 
 The circuit was designed and tested using Proteus simulation software.
 
